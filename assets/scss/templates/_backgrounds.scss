@@ -1,7 +1,8 @@
 .bg-1 {
-	background-size: cover;
+	/*background-size: cover;*/
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	background-color: #93bcbc;
 
 	@include tablet {
 		background-attachment: scroll;
